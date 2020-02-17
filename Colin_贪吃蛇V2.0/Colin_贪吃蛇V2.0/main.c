@@ -19,6 +19,9 @@
 #include "game_setting.h"
 #include <time.h>
 
+
+
+
 int main(int argc, char *argv[])
 {
 	system("color 2");
